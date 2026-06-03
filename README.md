@@ -1,6 +1,7 @@
 # Event Reminder System with Priority & Alarms
 
 A lightweight, local desktop application built using **Java AWT (Abstract Window Toolkit)** and connected to an embedded **SQLite Database** to log, organize, and trigger alarms for daily tasks and events.
+*This project was developed as a Mini Project Assessment assigned by the University for Java Programming using AWT and Database Connectivity.*
 
 ---
 
